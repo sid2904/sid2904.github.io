@@ -2,13 +2,13 @@
 main:
 
   - title: "Education"
-    url: /education/
+    url: /teaching/
     
   - title: "Work Experience"
     url: /portfolio/
     
   - title: "Projects"
-    url: /projects/       
+    url: /publications/       
  
   - title: "CV"
     url: /cv/
