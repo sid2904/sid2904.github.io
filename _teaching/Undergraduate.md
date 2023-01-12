@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Undergraduate
 venue: "BITS Pilani"
-date: "2018"
+date: "2018-01-01"
 location: "Goa, India"
 ---
 
