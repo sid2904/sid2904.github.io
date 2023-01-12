@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "MSc Mathematics"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/Graduate
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "BITS Pilani"
+location: "Goa, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Courses completed: Reinforcement Learning, Deep Learning, Machine Learning, Object Oriented Programming, Operating Systems, Applied Statistical Methods, Statistical Inference and Applications, Numerical Analysis, Graphs and Networks, Operations Research, Discrete Mathematics, Computer Programming in C/C++
