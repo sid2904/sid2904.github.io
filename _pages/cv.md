@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Mathematics, BITS Pilani, 2023(Ecpected)
+* M.Sc. in Mathematics, BITS Pilani, 2023(Expected)
 * B.E. in Mechanical Engineering, BITS Pilani, 2023(Expected)
 
 Professional Work experience
 ======
 * Summer 2021: Software Development Intern
-  * IndiaMART Intermesh Pvt. Ltd. An Indian e-commerce company that provides a business-to-business web portal to connect Indian manufacturers with buyers. https://www.indiamart.com/
+  * IndiaMART Intermesh Pvt. Ltd. An Indian e-commerce company that provides a business-to-business web portal to connect Indian manufacturers with buyers. [https://www.indiamart.com/](https://www.indiamart.com/)
   * Supervisor: Ms Renuka Akku
   * Duties: Worked on Google Calendar API and Reports API for Google Meet, SOLR search, Elastic search
 
@@ -25,10 +25,10 @@ Professional Work experience
   * Hertztech Solutions Pvt. Ltd. Hertztech provides cost effective solutions in the areas of Noise, Vibration and Harshness (NVH) and Strength and Durability.
   * Supervisor: Mr Ashish Sahu
   * Duties: Used Altair Hyperworks, Finite Element Analysis(FEA), Finite Element Method(FEM) and performed stress analysis of a CAD model of a car door.
-![Visualization](/images/editing-talk.png)
+![Visualization](/images/145705.gif)
 
 * Summer 2019: Blockchain Intern
-  * Eleven01. Eleven01 is one of the fastest, highly scalable blockchain protocol which aims to make blockchain technologies ready for real world use. https://eleven01.io/
+  * Eleven01. Eleven01 is one of the fastest, highly scalable blockchain protocol which aims to make blockchain technologies ready for real world use. [https://eleven01.io/](https://eleven01.io/)
   * Supervisor: Mr Akhil Ageer
   * Duties: Used Solidity to complete backend development of two Decentrailized Applications: Message notification DApp and KYC for Bank DApp.
   
