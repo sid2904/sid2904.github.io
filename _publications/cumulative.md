@@ -1,11 +1,3 @@
----
-collection: publications
-permalink: /publication/cumulative
-layout: archive
-
----
-
-{% include base_path %}
 
 Major Projects
 ======
