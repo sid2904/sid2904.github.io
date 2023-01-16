@@ -1,10 +1,7 @@
 ---
 
 layout: archive
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /All Projects
 
 ---
 {% include base_path %}
