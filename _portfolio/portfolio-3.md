@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Eleven01"
+excerpt: "Conducted Backend Development of two DApp’s using Solidity<br/>
+Message notification DApp and KYC for Bank DApp<br/>
+Explored the field of using API’s in DApp’s"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Eleven01 is one of the fastest, highly scalable blockchain protocol which aims to make blockchain technologies ready for real world use. [https://eleven01.io/](https://eleven01.io/)
+
+* Conducted Backend Development of two DApp’s using Solidity
+* Message notification DApp and KYC for Bank DApp
+* Explored the field of using API’s in DApp’s
