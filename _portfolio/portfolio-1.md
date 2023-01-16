@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "IndiaMART"
+excerpt: "I worked on Google Calendar API and Reports API for Google Meet, SOLR search, Elastic search<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Learnt about API’s, SOLR search, Elastic search and Git
+* Programmed a script using Google Calendar API to create and update google calendar events
+* Programmed a script using Reports API to generate a report of participants in a google meet
+* Explored the topic of Root Cause Analysis and presented my knowledge to the software development team
+* Wokred on implementing the method of tokenization to improve the SOLR search feature on the IndiaMART site
