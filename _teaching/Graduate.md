@@ -1,5 +1,5 @@
 ---
-title: "MSc Mathematics"
+title: "MSc in Mathematics"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/Graduate
