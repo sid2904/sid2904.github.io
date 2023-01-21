@@ -67,4 +67,4 @@ Certifications
 * Big Data Using Hadoop by Oracle, [Certificate](https://drive.google.com/file/d/1Tf3kpzd2wk3CCIp1-ZF9pmZ5ms94X8Q7/view?usp=share_link)
 * Advanced Excel for Business Analytics, [Certificate](https://drive.google.com/file/d/1-4c3-TpJbx2kcSUeIBsvqFWgrmlVigjf/view?usp=share_link)
 * Blockchain Workshop by IBM, [Certificate](https://drive.google.com/file/d/1dTHEqDY8uYPPrBZn19rQti_y_tUCn5rs/view?usp=share_link)
-* Nettech, [Certificate](https://www.bits-pilani.ac.in/)
+* Nettech, [Certificate](https://drive.google.com/file/d/1zKFTtlMFqZh--Ieei682EnQvG9nvThK9/view?usp=share_link)
