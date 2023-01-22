@@ -9,4 +9,4 @@ IndiaMART Intermesh Pvt. Ltd. An Indian e-commerce company that provides a busin
 * Programmed a script using Google Calendar API to create and update google calendar events
 * Programmed a script using Reports API to generate a report of participants in a google meet
 * Explored the topic of Root Cause Analysis and presented my knowledge to the software development team
-* Wokred on implementing the method of tokenization to improve the SOLR search feature on the IndiaMART site
+* Worked on implementing the method of tokenization to improve the SOLR search feature on the IndiaMART site
