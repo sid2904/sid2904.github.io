@@ -1,8 +1,10 @@
 ---
 
 layout: archive
+permalink: /All Projects
 
 ---
+{% include base_path %}
 
 Major Projects
 ======
