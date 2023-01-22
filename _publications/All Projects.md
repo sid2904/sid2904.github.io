@@ -1,6 +1,7 @@
 ---
 
-permalink: /All Projects
+layout: archive
+
 
 ---
 {% include base_path %}
