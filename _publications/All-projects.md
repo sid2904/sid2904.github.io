@@ -1,7 +1,9 @@
 ---
 
-layout: archive
-permalink: /All Projects
+title: "All Projects"
+collection: publications
+permalink: /publication/All-projects
+date: 2009-10-01
 
 ---
 {% include base_path %}
