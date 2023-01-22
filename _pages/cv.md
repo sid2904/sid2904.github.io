@@ -25,7 +25,6 @@ Professional Work experience
   * Hertztech Solutions Pvt. Ltd. Hertztech provides cost effective solutions in the areas of Noise, Vibration and Harshness (NVH) and Strength and Durability.
   * Supervisor: Mr Ashish Sahu
   * Duties: Used Altair Hyperworks, Finite Element Analysis(FEA), Finite Element Method(FEM) and performed stress analysis of a CAD model of a car door.
-![Visualization](/images/145705.gif)
 
 * Summer 2019: Blockchain Intern
   * Eleven01. Eleven01 is one of the fastest, highly scalable blockchain protocol which aims to make blockchain technologies ready for real world use. [https://eleven01.io/](https://eleven01.io/)
