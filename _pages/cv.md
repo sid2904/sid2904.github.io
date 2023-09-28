@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Mathematics, BITS Pilani, 2023(Expected)
-* B.E. in Mechanical Engineering, BITS Pilani, 2023(Expected)
+* M.S. in Computer Science, University of Massachusetts, Boston, Dec 2024(Expected)
+* M.Sc. in Mathematics, BITS Pilani, 2023
+* B.E. in Mechanical Engineering, BITS Pilani, 2023
 
 Professional Work experience
 ======
@@ -33,32 +34,35 @@ Professional Work experience
   
 Skills
 ======
-* Programming Languages: C, C++, Python, R, Solidity, MySQL
+* Programming Languages: C++, Python, R, MySQL, Linux, Java, Solidity
 * Integrated Development Environment: R Studio, Arduino IDE
-* Design and Simulation Software: MATLAB, Altair Hyperworks,  Ansys, AutoCAD
+* Design and Simulation Software: SPSS, Cisco Packet Tracer, MATLAB, Altair Hyperworks,  Ansys, AutoCAD
 * Web Technologies: HTML, CSS, Javascript
 
 
 Major Projects
 ======
 
-* Thesis - Catastrophic Forgetting and Ways to Overcome it (ongoing)
-  * Pursuing thesis under supervision of Dr Paul Rad, University of Texas at San Antonio. Exploring and implementing new methods to solve the problem of catastrophic forgetting during continual learning
+* Thesis - Catastrophic Forgetting and Ways to Overcome it
+  * Pursued thesis under supervision of Dr Paul Rad, University of Texas at San Antonio. Used the Avalanche CL library to create plugins and minimize the effect of catastrophic forgetting during continual learning
 
 * Summer Project on Autonomous Vehicles, University of Texas at San Antonio
   * Completed the project under supervision of Dr Paul Rad and Tyrell Lewis from University of Texas at San Antonio. Explored the software Nvidia Omniverse and Unity ML Agents. Worked on the cart pole balancing problem using Unity ML Agents. Applied the EgoNet model to the KITTI cars dataset and performed Vehicle Pose Estimation. Generated Disparity Maps and performed Depth Estimation in Monocular Images using the KITTI cars dataset
+ 
+* Industrial Training - Network Management, Nettech Pvt Ltd
+  * Explored topics of Telnet, SSH, FTP, DNS, DHCP configurations, Routing, TCP/IP, Subnetting, Apache web server. Created a custom server and configured Sendmail between 2 users on the same network.
+
+* Industrial Training - Applied Deep Learning, Hewlett Packard Enterprise (HP)
+  * Explored the topics of Batch Normalization, Data Engineering, Data Labeling, Data Augmentation, Transfer Learning, Early Stopping, Ensemble Methods. Coordinated with a group of 4 people and completed the project “Malaria Cell Detection Using Image Classification.” Achieved overall rank 1 in the course
+
+* Industrial Training - Data Analytics Using Deep Learning, National University of Singapore (NUS)
+  * Explored the topics of Python Data Science Libraries, Regression, Classifiers, SVMs, Clustering, Text Mining, Gradient Descent Algorithms, ANNs, CNNs, RNNs. Coordinated with a group of 4 people and completed the project “Sign Language Detection Desktop Application”
 
 * Classification of Mechanical Tools using CNN and Particle Swarm Optimization
   * Under supervision of Dr G. Karthikeyan, BITS Pilani. Multiclass Image classification using CNN and Particle Swarm Optimization on custom dataset. Achieved performance of 93.14% while RMS Prop, Adam optimizers had performance of 74%, 71.3%
 
 * Comparing Performance of Time Series Algorithms and Forecasting Stock Price
   * Under supervision of Dr Varinder Singh, BITS Pilani. Compared performance of simple moving average, ARIMA, VARIMA and LSTM for time series prediction
-
-* Industrial Training - Data Analytics Using Deep Learning, National University of Singapore (NUS)
-  * Explored the topics of Python Data Science Libraries, Regression, Classifiers, SVMs, Clustering, Text Mining, Gradient Descent Algorithms, ANNs, CNNs, RNNs. Coordinated with a group of 4 people and completed the project “Sign Language Detection Desktop Application” 
-
-* Industrial Training - Applied Deep Learning, Hewlett Packard Enterprise (HP)
-  * Explored the topics of Batch Normalization, Data Engineering, Data Labeling, Data Augmentation, Transfer Learning, Early Stopping, Ensemble Methods. Coordinated with a group of 4 people and completed the project “Malaria Cell Detection Using Image Classification.” Achieved overall rank 1 in the course
 
 * Sign Language Detection Desktop Application
   * Completed this project as a part of a group for the Global Academic Internship Programme (GAIP) by National University of Singapore. Used tkinter to create a GUI for our App. Applied the enchant spell checking library
