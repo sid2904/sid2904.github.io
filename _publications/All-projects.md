@@ -3,7 +3,7 @@
 title: "All Projects"
 collection: publications
 permalink: /publication/All-projects
-date: 2023-01-15
+date: 2023-09-28
 
 ---
 {% include base_path %}
@@ -11,8 +11,8 @@ date: 2023-01-15
 Major Projects
 ======
 
-* Thesis - Catastrophic Forgetting and Ways to Overcome it (ongoing)
-  * Pursuing thesis under supervision of Dr Paul Rad, University of Texas at San Antonio. Exploring and implementing new methods to solve the problem of catastrophic forgetting during continual learning
+* Thesis - Catastrophic Forgetting and Ways to Overcome it
+  * Completed thesis under supervision of Dr Paul Rad, University of Texas at San Antonio. Applied the Avalanche CL library to reduce the effect of catastrophic forgetting during continual learning.
 
 * Summer Project on Autonomous Vehicles, University of Texas at San Antonio
   * Completed the project under supervision of Dr Paul Rad and Tyrell Lewis from University of Texas at San Antonio. Explored the software Nvidia Omniverse and Unity ML Agents. Worked on the cart pole balancing problem using Unity ML Agents. Applied the EgoNet model to the KITTI cars dataset and performed Vehicle Pose Estimation. Generated Disparity Maps and performed Depth Estimation in Monocular Images using the KITTI cars dataset
