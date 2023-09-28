@@ -1,11 +1,11 @@
 ---
-title: "MSc in Mathematics"
+title: "MS in Computer Science"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/Graduate
-venue: "BITS Pilani"
-date: "2023-01-01"
-location: "Goa, India"
+venue: "University of Massachusetts, Boston"
+date: "2024-12-01"
+location: "Boston, MA"
 ---
 
-Courses completed: Reinforcement Learning, Deep Learning, Machine Learning, Object Oriented Programming, Operating Systems, Applied Statistical Methods, Statistical Inference and Applications, Numerical Analysis, Graphs and Networks, Operations Research, Discrete Mathematics, Computer Programming in C/C++
+Courses: Introduction to Software Engineering, Cybersecurity in Internet of Things
