@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddhant Setia"
+title                    : "Sid Setia"
 title_separator          : "-"
-name                     : &name "Siddhant Setia"
+name                     : &name "Sid Setia"
 description              : &description "Welcome!"
 url                      : https://sid2904.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
