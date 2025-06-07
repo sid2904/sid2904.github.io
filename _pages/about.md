@@ -9,8 +9,10 @@ redirect_from:
 ---
 <br/>
 
-Hi! I am Siddhant Setia. I am pursuing my Master of Science in Computer Science from the University of Massachusetts, Boston. I completed my Master of Science in Mathematics and Bachelor of Engineering in Mechanical Engineering from Birla Institute of Technology and Science, Pilani, India. I completed my Masters thesis in the field of Autonomous Vehicles under the supervision of Dr Paul Rad, Director, Secure AI and Autonomy Laboratory, University of Texas at San Antonio.<br/>
+Hi! I am Sid Setia. I am pursuing my PhD in Computer Science from the University of Massachusetts, Boston under the supervision of Prof Junichi Suzuki. I completed my Master of Science in Mathematics and Bachelor of Engineering in Mechanical Engineering from Birla Institute of Technology and Science, Pilani, India. I completed my Masters thesis in the field of Autonomous Vehicles under the supervision of Dr Paul Rad, Director, Secure AI and Autonomy Laboratory, University of Texas at San Antonio.<br/>
 
-Since the day I started college my goal has been to explore the interesting field of Information Technology. Throughout the past five years I have done internships, projects, courses and workshops in the fields of Software Development, Big Data, Deep Learning,  Artifical Intelligence, Computer Network Management and Blockchain Development.<br/>
+I work in the field of Information Technology, where curiosity and a love for problem-solving drive everything I do. Over the past years, I’ve immersed myself in internships, hands-on projects, specialized courses, and workshops—building skills in Software Development, Big Data, Deep Learning, Artificial Intelligence, Computer Networking and Blockchain Development.<br/>
 
-I have consolidated all of my work done in various pages so feel free to check them out and email me if you would like to discuss about Data, AI and any form of automotive racing.
+This site showcases the work I've done across these areas, neatly organized for you to browse through. Whether it’s diving into the latest trends in AI, exploring data-driven solutions, or geeking out over anything related to automotive racing, I’m always up for a good conversation.<br/>
+
+Feel free to explore, reach out, or just say hi—I’d love to connect.
